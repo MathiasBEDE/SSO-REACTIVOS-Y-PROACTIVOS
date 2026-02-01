@@ -164,4 +164,4 @@ El sistema utiliza una arquitectura modular limpia para facilitar el mantenimien
 Este software ha sido desarrollado para uso empresarial interno, cumpliendo estrictamente con los lineamientos técnicos de la normativa ecuatoriana vigente (CD 513).
 
 ---
-**Desarrollado con ❤️ para la Excelencia en Seguridad Industrial**
+**Desarrollado por Mathias Benavides para la Excelencia en Seguridad Industrial**
