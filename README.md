@@ -74,7 +74,7 @@ PROYECTO_SSO/
 1. **Clonar o descargar el proyecto**
 
 ```bash
-cd "c:\Users\Mathias\Documents\REACTIVOS PROACTIVOS\PROYECTO_SSO"
+cd "******REACTIVOS PROACTIVOS\PROYECTO_SSO"
 ```
 
 2. **Crear entorno virtual (recomendado)**
