@@ -1,0 +1,25 @@
+# Dashboard SSO - Requerimientos v2.1
+# Normativa IESS CD 513 Ecuador
+# Arquitectura: Motores Reactivo y Proactivo separados
+
+# Framework Web
+streamlit>=1.28.0
+
+# Visualización
+plotly>=5.18.0
+matplotlib>=3.7.0
+
+# Procesamiento de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Manejo de archivos Excel
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+xlrd>=2.0.1
+
+# Generación de Reportes PDF
+fpdf>=1.7.2
+
+# Utilidades
+python-dateutil>=2.8.2
